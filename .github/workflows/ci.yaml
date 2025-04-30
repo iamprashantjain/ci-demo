@@ -22,4 +22,4 @@ jobs:
 
     - name: Lint with flake8
       run:
-        flake8 calculator.py
+        flake8 app.py
